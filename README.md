@@ -1,4 +1,4 @@
-# Putting it All Together: React Fetch CRUD Lab
++# Putting it All Together: React Fetch CRUD Lab
 
 ## Learning Goals
 
